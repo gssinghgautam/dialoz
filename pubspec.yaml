@@ -1,0 +1,57 @@
+name: dailoz
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  stacked: ^2.3.6
+  stacked_services: ^0.8.22+1
+  stacked_crashlytics: ^0.1.1
+  logger: ^1.1.0
+  animations: ^2.0.2
+  flutter_svg: ^1.0.3
+  appwrite: ^4.0.2
+  firebase_messaging: ^11.3.0
+  awesome_notifications: ^0.6.21
+  hive: ^2.1.0
+  hive_flutter: ^1.1.0
+  json_annotation: ^4.5.0
+  freezed_annotation: ^2.0.3
+  flutter_dotenv: ^5.0.2
+  stacked_localisation:
+    path: ./packages/stacked_localisation
+  google_fonts: ^2.3.2
+  flutter_staggered_grid_view: ^0.6.1
+  intl: ^0.17.0
+  table_calendar: ^3.0.5
+  jiffy: ^5.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  build_runner: ^2.1.10
+  freezed: ^2.0.3
+  hive_generator: ^1.1.2
+  stacked_generator: ^0.6.2
+  mockito: ^5.1.0
+  stacked_localisation_generator:
+    path: ./packages/stacked_localisation_generator
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/lang/

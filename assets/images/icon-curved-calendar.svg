@@ -1,0 +1,15 @@
+<svg id="Iconly_Curved_Calendar" data-name="Iconly/Curved/Calendar" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <rect id="Iconly_Curved_Calendar_Background_" data-name="Iconly/Curved/Calendar (Background)" width="14" height="14" fill="none"/>
+  <g id="Calendar" transform="translate(1.604 1.195)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M5.41,0c4.058,0,5.41,1.352,5.41,5.41s-1.353,5.41-5.41,5.41S0,9.467,0,5.41,1.353,0,5.41,0Z" transform="translate(0 0.848)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,.292H10.5" transform="translate(0.161 3.951)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M.289.292H.294" transform="translate(7.69 6.248)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M.289.292H.294" transform="translate(5.124 6.248)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_9" data-name="Stroke 9" d="M.289.292H.294" transform="translate(2.553 6.248)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_11" data-name="Stroke 11" d="M.289.292H.294" transform="translate(7.69 8.494)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_13" data-name="Stroke 13" d="M.289.292H.294" transform="translate(5.124 8.494)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_15" data-name="Stroke 15" d="M.289.292H.294" transform="translate(2.553 8.494)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_17" data-name="Stroke 17" d="M.292,0V1.9" transform="translate(7.457)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+    <path id="Stroke_19" data-name="Stroke 19" d="M.292,0V1.9" transform="translate(2.785)" fill="none" stroke="#525f77" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.875" stroke-dasharray="0 0"/>
+  </g>
+</svg>

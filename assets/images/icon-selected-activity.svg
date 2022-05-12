@@ -1,0 +1,11 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="24" height="31" viewBox="0 0 24 31">
+  <g id="Iconly_Curved_Activity" data-name="Iconly/Curved/Activity">
+    <rect id="Iconly_Curved_Activity_Background_" data-name="Iconly/Curved/Activity (Background)" width="24" height="24" fill="none"/>
+    <g id="Activity" transform="translate(2.45 2.35)">
+      <path id="Stroke_4" data-name="Stroke 4" d="M18.051,2.947c.133.895.449,5.172.449,6.3,0,6.938-2.312,9.25-9.25,9.25S0,16.188,0,9.25,2.313,0,9.25,0c1.11,0,5.919.319,6.8.447" transform="translate(0 0.703)" fill="#5b67ca"/>
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,4.989,2.993,1.1,6.407,3.78,9.336,0" transform="translate(4.468 7.516)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Stroke_2" data-name="Stroke 2" d="M3.844,1.922A1.922,1.922,0,1,1,1.922,0,1.922,1.922,0,0,1,3.844,1.922Z" transform="translate(15.295)" fill="#e88b8c" stroke="#e88b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+  <circle id="Ellipse_253" data-name="Ellipse 253" cx="2" cy="2" r="2" transform="translate(10 27)" fill="#5b67ca"/>
+</svg>

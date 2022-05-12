@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+import 'package:stacked/stacked.dart';
+import 'activity_viewmodel.dart';
+
+class ActivityView extends StatelessWidget {
+  const ActivityView({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return ViewModelBuilder<ActivityViewModel>.reactive(
+      viewModelBuilder: () => ActivityViewModel(),
+      builder: (context, model, child) => Scaffold(
+        backgroundColor: Theme.of(context).backgroundColor,
+        body: Container(
+          padding: const EdgeInsets.only(left: 25.0, right: 25.0),
+        ),
+      ),
+    );
+  }
+}
